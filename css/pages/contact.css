@@ -1,0 +1,72 @@
+.contactUs .formPopUp {
+  padding: 35px 0;
+}
+
+.contactUs .content__Contact {
+  gap: 15px;
+}
+
+.contactUs .content__Contact .contentOne {
+  flex: 0 0 32%;
+  max-width: 32%;
+  text-align: center;
+  height: 174px;
+  padding: 100px 15px;
+}
+
+.contactUs .content__Contact .contentOne .icon__Contnet__One {
+  width: 40px;
+  height: 40px;
+  background: rgba(250, 186, 0, 0.2);
+  border: 8px solid rgba(250, 186, 0, 0.07);
+  line-height: 24px;
+  text-align: center;
+  font-size: 14px;
+  color: var(--black-100);
+  border-radius: 50%;
+}
+
+.contactUs .content__Contact .contentOne .info {
+  padding: 15px 0;
+}
+.contactUs .content__Contact .contentOne .info .titleInfo {
+  font-size: 20px;
+
+}
+
+.contactUs .content__Contact .contentOne .info .textInfo {
+  padding: 10px 0;
+}
+.contactUs .content__Contact .contentOne .info .textAll {
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.contactUs .formContact {
+  visibility: visible;
+  opacity: 1;
+  position: static;
+  overflow: auto;
+  background: none;
+}
+
+.contactUs .formContact .allsTitleContact {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.contactUs .formContact .allsTitleContact .titleContact {
+  font-size: 16px;
+}
+.contactUs .formContact .popUp__Form__One .textareaLabel {
+  margin-top: 15px;
+}
+.contactUs .formContact .popUp__Form__One textarea {
+  resize: none;
+}
+
+.popUp__Product .allPopUpProducts .formPopUp .allFormsPopUp .btn-contact {
+  margin-top: 15px;
+}
+
+

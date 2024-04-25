@@ -1,0 +1,63 @@
+/* Start Section products Two */
+.product .grid__Products {
+  display: flex;
+  justify-content: space-between;
+}
+/* Start Grid One */
+.product .grid__Products .gridOne {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+.product
+  .grid__Products
+  .gridOne
+  .links__Categories
+  .listCat
+  .itemCat
+  .linkItemCat {
+  font-size: 16px;
+  color: var(--black-50);
+  font-weight: 500;
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+}
+.product .grid__Products .gridOne .Categories .titleCat .title{
+    font-size: 16px;
+    font-weight: 600;
+}
+.product .grid__Products .gridOne .links__Categories{
+    padding: 15px 0;
+}
+.product .grid__Products .gridOne .links__Categories .listCat .itemCat .active {
+  color: var(--yellow);
+  background: var(--yellow-1);
+}
+.product .grid__Products .gridOne .Categories .btn{
+    width: 100% !important;
+    border-radius: 4px;
+}
+
+/* End Grid One */
+/* Start Grid Two */
+.product .grid__Products .gridTwo {
+  flex: 0 0 73%;
+  max-width: 73%;
+}
+.product .grid__Products .gridTwo .all__Products .productOne {
+  flex: 0 0 23.33333;
+  max-width: 23.33333;
+}
+
+.product .grid__Products .gridTwo .all__Products .productOne {
+  padding: 25px 15px;
+}
+
+.product .grid__Products .gridTwo .all__Products .productOne .content .boxText {
+  font-size: 12px;
+}
+.centerFooterBg{
+    background: var(--yellow-1);
+}
+
+/* End Section products Two */

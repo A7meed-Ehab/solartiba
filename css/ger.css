@@ -1,0 +1,26 @@
+/* Germany */
+.about .title::after{
+    content: "Wer sind wir" !important;
+    color: #605bc8;
+}
+.services .title::after{
+    /* background: #605bc8; */
+    content: "um die Welt" !important;
+    color: #605bc8;
+}
+.gallery .title::after{
+    content: "mal sehen" !important;
+    color: #605bc8;
+}
+.gallery-2 .title::after{
+    content: "mal sehen" !important;
+    color: #605bc8;
+}
+.contact .title::after{
+    content:" Verbinde dich mit uns" !important;
+    color: #605bc8;
+}
+.serv-info .title::after{
+    content: "Unsere Erfahrung" !important;
+    color: #605bc8;
+}

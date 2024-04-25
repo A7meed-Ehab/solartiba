@@ -1,0 +1,5 @@
+.dropdown__menu{
+    /* padding: 10px 0 0; */
+    background: var(--main-font-color);
+    transition: all 0.5s ease;
+}
