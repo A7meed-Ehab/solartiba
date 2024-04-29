@@ -122,7 +122,7 @@ $("#calc").on("click", async function () {
     <img src="images/solar1.jpg" width="400px" height="200px" class="d-block m-auto"/>
    <p class="mt-2">${
      lang == "en" ? "Enter Space in" : "Geben Sie Leerzeichen ein"
-   }M²</p>
+   } M²</p>
   `,
   }).then((result) => {
     data = result.value;
@@ -144,7 +144,7 @@ $("#calc").on("click", async function () {
           ? val
           : `${lang == "en" ? "Cost" : "kosten"} = ${new Intl.NumberFormat(
               "en-US"
-            ).format(val)} ₣`
+            ).format(val)} CHF.`
       }`
     );
   }
