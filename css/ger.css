@@ -13,7 +13,7 @@
     color: #605bc8;
 }
 .gallery-2 .title::after{
-    content: "mal sehen" !important;
+    content: " " !important;
     color: #605bc8;
 }
 .contact .title::after{
