@@ -235,6 +235,7 @@ a {
   background: none;
   color: var(--main-color);
 }
+
 .nav-fixed .max-width .ar,
 .mynav .max-width .ar {
   display: inline-flex;
