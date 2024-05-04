@@ -5,7 +5,7 @@
 }
 .services .title::after{
     /* background: #605bc8; */
-    /* content: "um die Welt" !important; */
+    content: " " !important;
     color: #605bc8;
 }
 .gallery .title::after{
