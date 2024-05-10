@@ -1,0 +1,26 @@
+/* Germany */
+.about .title::after{
+    content: "chi siamo noi" !important;
+    color: #605bc8;
+}
+.services .title::after{
+    /* background: #605bc8; */
+    content: " " !important;
+    color: #605bc8;
+}
+.gallery .title::after{
+    content: "Vediamo" !important;
+    color: #605bc8;
+}
+.gallery-2 .title::after{
+    content: " " !important;
+    color: #605bc8;
+}
+.contact .title::after{
+    content:"Connettiti con noi" !important;
+    color: #605bc8;
+}
+.serv-info .title::after{
+    content: "La nostra esperienza" !important;
+    color: #605bc8;
+}
